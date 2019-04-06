@@ -1,0 +1,28 @@
+[TRACE] 2019-03-29 17:38:46.774 [main] Log4jDemo - This is trace message
+[INFO ] 2019-03-29 17:38:46.789 [main] Log4jDemo - This is information message
+[ERROR] 2019-03-29 17:38:46.789 [main] Log4jDemo - This is error message
+[WARN ] 2019-03-29 17:38:46.789 [main] Log4jDemo - This is warning message
+[FATAL] 2019-03-29 17:38:46.790 [main] Log4jDemo - This is Fatal message
+[TRACE] 2019-03-29 17:42:12.472 [main] MainApp - Entering application...
+[INFO ] 2019-03-29 17:42:12.487 [main] MainApp - Hello Log4j2...
+[ERROR] 2019-03-29 17:42:12.489 [main] MainApp - Something is wrong with this code Invalid message
+[TRACE] 2019-03-29 17:42:12.491 [main] MainApp - Exiting application...
+[TRACE] 2019-03-29 17:44:55.807 [main] Log4jDemo - This is trace message
+[INFO ] 2019-03-29 17:44:55.822 [main] Log4jDemo - This is information message
+[ERROR] 2019-03-29 17:44:55.823 [main] Log4jDemo - This is error message
+[WARN ] 2019-03-29 17:44:55.823 [main] Log4jDemo - This is warning message
+[FATAL] 2019-03-29 17:44:55.823 [main] Log4jDemo - This is Fatal message
+[TRACE] 2019-03-29 18:06:23.627 [main] Log4jDemo - This is trace message
+[INFO ] 2019-03-29 18:06:23.639 [main] Log4jDemo - This is information message
+[ERROR] 2019-03-29 18:06:23.640 [main] Log4jDemo - This is error message
+[WARN ] 2019-03-29 18:06:23.640 [main] Log4jDemo - This is warning message
+[FATAL] 2019-03-29 18:06:23.640 [main] Log4jDemo - This is Fatal message
+[TRACE] 2019-03-29 18:29:05.702 [main] Log4jDemo - This is trace message
+[INFO ] 2019-03-29 18:29:05.721 [main] Log4jDemo - This is information message
+[ERROR] 2019-03-29 18:29:05.721 [main] Log4jDemo - This is error message
+[WARN ] 2019-03-29 18:29:05.722 [main] Log4jDemo - This is warning message
+[FATAL] 2019-03-29 18:29:05.722 [main] Log4jDemo - This is Fatal message
+[TRACE] 2019-03-29 18:31:35.785 [main] MainApp - Entering application...
+[INFO ] 2019-03-29 18:31:35.802 [main] MainApp - Hello Log4j2...
+[ERROR] 2019-03-29 18:31:35.803 [main] MainApp - Something is wrong with this code Invalid message
+[TRACE] 2019-03-29 18:31:35.803 [main] MainApp - Exiting application...

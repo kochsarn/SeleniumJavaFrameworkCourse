@@ -1,0 +1,13 @@
+
+<suite name="Suite1" parallel="classes">
+	<test name="Test3">
+		<classes>
+			<class name="demo.Test2" />
+			 <class name="demo.Test1" />
+			<!-- <method>
+				<include name="googleSearch3">
+				</include>
+			</method> -->
+		</classes>
+	</test>
+</suite> 

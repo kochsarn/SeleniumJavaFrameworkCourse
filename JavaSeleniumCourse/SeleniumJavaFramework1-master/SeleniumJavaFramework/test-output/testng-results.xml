@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16848" started-at="2562-04-04T13:23:52Z" finished-at="2562-04-04T13:24:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16848" started-at="2562-04-04T13:23:52Z" finished-at="2562-04-04T13:24:09Z">
+      <class name="demo.InstantSauceTestNGTest01">
+        <test-method status="PASS" signature="shouldOpenSafari()[pri:0, instance:demo.InstantSauceTestNGTest01@3c0f93f1]" name="shouldOpenSafari" duration-ms="16808" started-at="2562-04-04T20:23:52Z" finished-at="2562-04-04T20:24:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldOpenSafari -->
+      </class> <!-- demo.InstantSauceTestNGTest01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

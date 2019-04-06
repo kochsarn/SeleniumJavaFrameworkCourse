@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="10" name="DemoTestSuite" verbose="1" parallel="tests">
+
+
+    <test name="Chrome">
+        <parameter name="platformName" value="NA" />
+        <parameter name="platformVersion" value="NA" />
+        <parameter name="browserName" value="chrome" />
+        <parameter name="browserVersion" value="NA" />
+        <classes>
+            <class name="LocalChrome" />
+        </classes>
+    </test>
+
+</suite>
