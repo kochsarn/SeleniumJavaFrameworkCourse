@@ -1,0 +1,9 @@
+[TRACE] 2019-03-29 20:32:09.044 [main] Log4jDemo - This is trace message
+[INFO ] 2019-03-29 20:32:09.059 [main] Log4jDemo - This is information message
+[ERROR] 2019-03-29 20:32:09.059 [main] Log4jDemo - This is error message
+[WARN ] 2019-03-29 20:32:09.060 [main] Log4jDemo - This is warning message
+[FATAL] 2019-03-29 20:32:09.060 [main] Log4jDemo - This is Fatal message
+[TRACE] 2019-03-29 20:32:44.093 [main] MainApp - Entering application...
+[INFO ] 2019-03-29 20:32:44.102 [main] MainApp - Hello Log4j2...
+[ERROR] 2019-03-29 20:32:44.102 [main] MainApp - Something is wrong with this code Invalid message
+[TRACE] 2019-03-29 20:32:44.103 [main] MainApp - Exiting application...
